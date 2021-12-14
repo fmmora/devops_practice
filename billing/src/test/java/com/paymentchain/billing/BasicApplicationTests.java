@@ -66,8 +66,10 @@ public class BasicApplicationTests {
         }
     }
 
-    /**
-     * Test call of create method, integrated with sonar.
+/*
+
+     Test call of create method, integrated with sonar.
+
      */
     @Test
     public void testCreate() throws Exception {
