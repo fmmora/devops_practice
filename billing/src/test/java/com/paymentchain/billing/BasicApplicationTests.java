@@ -67,7 +67,7 @@ public class BasicApplicationTests {
     }
 
     /**
-     * Test call of create method, integrated with sonar utl.
+     * Test call of create method, on  weblayer fmo ult slack update java version ult ok.
      */
     @Test
     public void testCreate() throws Exception {
