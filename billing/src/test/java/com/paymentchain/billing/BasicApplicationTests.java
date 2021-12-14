@@ -67,7 +67,7 @@ public class BasicApplicationTests {
     }
 
     /**
-     * Test call of create method, on  weblayer fmo ult slack.
+     * Test call of create method, on  weblayer fmo ult slack update java version.
      */
     @Test
     public void testCreate() throws Exception {
