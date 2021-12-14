@@ -67,7 +67,7 @@ public class BasicApplicationTests {
     }
 
     /**
-     * Test call of create method, on  weblayer fmo ult slack update java version ult ok.
+     * update port and add dockerfile for construction image
      */
     @Test
     public void testCreate() throws Exception {
